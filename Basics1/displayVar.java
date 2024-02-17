@@ -1,3 +1,5 @@
+package Basics1;
+
 public class displayVar { 
    public static void main(String[] args) {
     String name = "Vedant";
