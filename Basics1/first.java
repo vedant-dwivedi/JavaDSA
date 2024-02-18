@@ -5,5 +5,6 @@ public class first {
         System.out.println("Namaste Ji, I am Ved"); // This will print the string
         System.out.println(69); // This will print the numbers  
         System.out.println(9+6);  // This will perform the operation and give the calculated output
+        System.out.println(6<9); // will print true or false for the condition executed
     }
 }
