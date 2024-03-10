@@ -23,5 +23,8 @@ public class assignmentOperator {
         System.out.println(x);
         x <<= 2; // Left Shift
         System.out.println(x);
+        int y = 10;
+        int z = 3;
+        System.out.println(y>>z);
     }
 }
